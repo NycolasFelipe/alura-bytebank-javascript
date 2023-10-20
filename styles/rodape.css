@@ -1,5 +1,16 @@
 .rodape {
     padding-bottom: 2em;
     text-align: center;
-    color: var(--roxo);
+    color: var(--preto);
+}
+
+.rodape a {
+    text-decoration: none;
+    font-weight: bold;
+    color: var(--preto);
+    transition: color 0.2s ease;
+}
+
+.rodape a:hover {
+    color: var(--verde-escuro);
 }

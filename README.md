@@ -1,3 +1,5 @@
+# Curso Alura - JavaScript: trabalhando com threads para requisições simultâneas
+
 <p align="center"> <img src="https://imgur.com/1mc1qX7.png" alt="JavaScript: trabalhando com threads para requisições simultâneas"> </p>
 
 <hr>

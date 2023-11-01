@@ -1,11 +1,6 @@
 # Curso Alura - JavaScript: trabalhando com threads para requisições simultâneas
 
-<p align="center"> <img src="https://imgur.com/1mc1qX7.png" alt="JavaScript: trabalhando com threads para requisições simultâneas"> </p>
-
-<hr>
-
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Bytebank: o seu banco digital!</p>
+![nycolasfelipe github io_alura-bytebank-javascript_](https://github.com/NycolasFelipe/alura-bytebank-javascript/assets/71052352/fe5a7357-b481-4580-8481-8a3344a27ec8)
 
 ## Assuntos abordados durante o curso
 * Fetch API
